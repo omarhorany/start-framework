@@ -1,0 +1,17 @@
+.homePage{
+    background-color: #19BC9B;
+    height: 80vh;
+    text-align: center;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.mainHome {
+h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+}

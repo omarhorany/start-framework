@@ -1,0 +1,14 @@
+.customRow{
+    margin: 40px auto;
+    width: 600px;
+    
+}
+.customInput {
+  border: none; 
+  border-bottom: 1px solid #0000003d;
+ }
+
+.customInput:focus{
+  outline: none; 
+  box-shadow: none;
+}
