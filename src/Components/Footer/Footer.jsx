@@ -32,9 +32,12 @@ export default function Footer() {
       </Row>
     </Container>
   </div>
-      <Row className={styles.lastRow}>
+   <div className={styles.lastRow}>
+   <Container>
+     <Row >
         <p className='m-auto'>Copyright © Your Website 2021</p>
       </Row>
-  
+     </Container>
+   </div>
   </>
 }
